@@ -1,6 +1,7 @@
 
 //Variable
-console.log("======================Variable=======================");console.log("==========================");
+console.log("======================Variable=======================");
+console.log("==========================");
 var age = 20;
 var typeOfAge = typeof age;
 console.log("Age: ", age, " and it's data type is: ", typeOfAge);
